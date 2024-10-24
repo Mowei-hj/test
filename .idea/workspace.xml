@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28be9583-58de-4996-a4da-339e51ce64d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ggt1chYQF8VqAJhGmZk1xdtVPX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../compiler/新建文件夹/羽毛球馆管理系统" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\羽毛球馆管理系统\xm-manager\vue\src\assets\imgs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootApplication">
+    <configuration name="SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringbootApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/xm-manager/vue/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.serve" />
+      <item itemvalue="Spring Boot.SpringbootApplication" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28be9583-58de-4996-a4da-339e51ce64d1" name="Default Changelist" comment="" />
+      <created>1716130834805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716130834805</updated>
+      <workItem from="1716130836168" duration="3567000" />
+      <workItem from="1716210670059" duration="42000" />
+      <workItem from="1716210728019" duration="2679000" />
+      <workItem from="1716387241320" duration="3342000" />
+      <workItem from="1716395995957" duration="546000" />
+      <workItem from="1716396644630" duration="764000" />
+      <workItem from="1716476260590" duration="1432000" />
+      <workItem from="1716487775114" duration="270000" />
+      <workItem from="1716488106503" duration="38000" />
+      <workItem from="1716488156495" duration="22000" />
+      <workItem from="1716488399548" duration="548000" />
+      <workItem from="1716537040034" duration="4699000" />
+      <workItem from="1716587073105" duration="4971000" />
+      <workItem from="1716593940974" duration="6875000" />
+      <workItem from="1716803140475" duration="1202000" />
+      <workItem from="1716833403697" duration="1859000" />
+      <workItem from="1716861500825" duration="188000" />
+      <workItem from="1716866417433" duration="248000" />
+      <workItem from="1716867428816" duration="107000" />
+      <workItem from="1716904796883" duration="523000" />
+      <workItem from="1717762593256" duration="668000" />
+      <workItem from="1719561514556" duration="27000" />
+      <workItem from="1719561558937" duration="23000" />
+      <workItem from="1719665179721" duration="2237000" />
+      <workItem from="1722556291220" duration="454000" />
+      <workItem from="1722746162826" duration="8000" />
+      <workItem from="1722844202224" duration="590000" />
+      <workItem from="1722862037889" duration="626000" />
+      <workItem from="1722915211226" duration="74000" />
+      <workItem from="1729755838542" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
